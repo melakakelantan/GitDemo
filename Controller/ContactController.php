@@ -2,4 +2,8 @@
 
 namespace Controller;
 
-class Controller {}
+class Controller {
+    public function store() {
+        
+    }
+}
